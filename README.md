@@ -1,4 +1,4 @@
-# Hourly_Recommendation_Q_Learning
+# Energy Recommendation System
 
 This repository contains the Household_energy_consumption dataset and a Jupyter Notebook **(`Hourly_Recommendation_Q_Learning.ipynb`)** that demonstrates the use of **Q-Learning** for building a recommendation system. The goal of this project is to design an agent that learns optimal actions over time and provides **hourly recommendations** based on reinforcement learning principles.
 
